@@ -1,0 +1,5 @@
+sovereign-infra-common (1.0.0-ubuntu1) stable; urgency=medium
+
+  * Added postinst
+
+ -- Sousou Industries Releases <releases@sousouindustries.com>  Mon, 18 Jan 2016 18:19:30 +0000
